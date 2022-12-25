@@ -10,7 +10,7 @@
 <br>
 
 
-<img src = "https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif?raw=true" width = 60px> **About me**
+## <img src = "https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif?raw=true" width = 50px><b> **About me**</b>
 
 <picture> <img align="right" src="https://user-images.githubusercontent.com/11302354/133863716-75f46c8d-b1d1-4efd-9e88-ebefa2ad7b35.gif" width = 250px></picture>
 
