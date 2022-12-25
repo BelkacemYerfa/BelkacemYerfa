@@ -10,7 +10,7 @@
 <br>
 
 
-## <picture><img src = "https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width = 60px></picture> **About me**
+<img src = "https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width = 60px> **About me**
 
 <picture> <img align="right" src="https://user-images.githubusercontent.com/11302354/133863716-75f46c8d-b1d1-4efd-9e88-ebefa2ad7b35.gif" width = 250px></picture>
 
@@ -28,7 +28,7 @@
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,c,figma,python,tailwindCss,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,c,figma,python,firebase,tailwindcss)](https://skillicons.dev)
 
 
 <br>
