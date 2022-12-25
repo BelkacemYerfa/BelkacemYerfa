@@ -10,9 +10,9 @@
 <br>
 
 
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width = 60px></picture> **About me**
 
-<picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/11302354/133863716-75f46c8d-b1d1-4efd-9e88-ebefa2ad7b35.gif" width = 250px></picture>
 
 <br>
 
