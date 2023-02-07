@@ -12,7 +12,7 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
-- Ai Lover 
+- Ai enthusiast  
 
 <br><br>
 
