@@ -9,7 +9,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught Full-stack developer
 - Currently learning Web Development by Self
 - Ai enthusiast  
 
