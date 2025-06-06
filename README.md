@@ -7,7 +7,7 @@ Full-Stack Developer · AI Enthusiast · Lifelong Learner
 - Exploring AI and automation  
 
 ## Tech Stack
-[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,express,mongodb,python,tailwind,firebase,figma,vscode,git,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,express,mongodb,python,tailwind,firebase,figma,vscode,git,github,golang,redis,postgres,docker)](https://skillicons.dev)
 
 ## Contact
 📧 belkacem.yerfa@gmail.com
